@@ -101,3 +101,6 @@
 
 * Getting ghci `sudo apt-get install haskell-platform`
 * Quitting ghci `:q`
+
+## Textbook
+[Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
